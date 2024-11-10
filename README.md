@@ -76,7 +76,13 @@ Long flights:
 And here we can see the chart by an avergae score on each tyoe of flight by duration
 ![image](https://github.com/user-attachments/assets/0776ea92-3e97-42b8-b995-8fc25c8ba338)
 
-#### 5. 
+#### 5. Passengers by the goal and type of their travels
+There was two types of travellers by the goal - travelling for business and personal purposes. 
+Also two types by the type of the travel - first timers and returning passengers.
+![image](https://github.com/user-attachments/assets/ffd92ace-9571-4858-827c-bcbb5df97c9e)
+
+There is a chart showing how many people choose which cabin class according to the type or travel and the goal. 
+![image](https://github.com/user-attachments/assets/2b55800f-93a3-41bc-95ba-d016ffab4e8f)
 
 
 #### Conclusions.
